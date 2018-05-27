@@ -17,3 +17,7 @@ Project: https://github.com/orgs/bigbearsio/projects/2
   - No client has ticket in the round if the current round is still not full.
   - If the client received response that ticket is sold, that should show up in getAllTickets()
   - If the server had not responded with success on a ticket, it should not show up in getAllTickets()
+  
+## Constraints / Technical
+* Use Fixed hostname so DNS is not a limiting factor (ref: [#5](https://github.com/bigbearsio/strength/issues/5))
+* Servers will all be in same cloud network
