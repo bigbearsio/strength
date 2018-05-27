@@ -21,3 +21,15 @@ Project: https://github.com/orgs/bigbearsio/projects/2
 ## Constraints / Technical
 * Use Fixed hostname so DNS is not a limiting factor (ref: [#5](https://github.com/bigbearsio/strength/issues/5))
 * Servers will all be in same cloud network
+
+## Contributors
+
+Bear Strength Enforcers
+* [@tspn](http://github.com/tspn)
+* [@supaket](https://github.com/supaket)
+* [@makasak](https://github.com/mahasak)
+* [@dtinth](https://github.com/dtinth)
+* [@varokas](https://github.com/varokas)
+
+Reference Implementation
+* [@phantomnat](https://github.com/phantomnat)
